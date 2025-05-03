@@ -1,0 +1,12 @@
+jupyterlab~=4.4
+numpy~=2.2
+torch~=2.7
+pillow~=11.2
+huggingface_hub[hf_xet]~=0.30
+transformers~=4.51
+diffusers~=0.33
+accelerate~=1.6
+gradio~=5.29
+requests~=2.32
+ipywidgets~=8.1
+pyright~=1.1
